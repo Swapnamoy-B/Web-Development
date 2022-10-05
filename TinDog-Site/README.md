@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinDog is a practice web-site
